@@ -1,4 +1,4 @@
-# 🚗 Automotive AI Cockpit | Real-Time CAN Bus Diagnostic Twin
+# Automotive AI Cockpit | Real-Time CAN Bus Diagnostic Twin
 
 Real-time smart car dashboard featuring live vehicle sensors, a 3D digital twin, and Gemini AI for instant fault diagnostics.
 
